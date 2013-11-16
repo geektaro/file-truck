@@ -1,8 +1,2 @@
-192.168.10.30 /home/jiepang/jiepangapi/data/
-192.168.10.11 /home/jiepang/jiepangapi/data/
-192.168.10.2 /home/jiepang/jiepangapi/data/
-192.168.10.6 /home/jiepang/jiepangapi/data/
-192.168.20.164 /home/jiepang/services/japi_dashboard/data/
-10.5.0.64 /home/jiepang/jiepangapi/data/
-10.5.0.65 /home/jiepang/japi_prod/data/
-10.5.0.67 /home/jiepang/japi_stag/jiepangapi/data/
+192.168.10.30 /home/wangyu/
+192.168.10.11 /home/wangyu/
