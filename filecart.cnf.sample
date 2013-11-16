@@ -1,0 +1,4 @@
+USER="wangyu"
+KEY="/home/wangyu/.ssh/id_rsa"
+DIR="/home/wangyu/file-truck/files/"
+FILE="a.sample b.sample"
